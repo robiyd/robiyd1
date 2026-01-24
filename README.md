@@ -43,9 +43,6 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 - **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/robiyd/AWS_Security_Hub_To_Excel_Pipeline/tree/main)**
 - **[AWS_Password_Policy_Verification](https://github.com/robiyd/Password_Policy_Verification/tree/main)**
 - **[AWS_Inactive_Key_Rotation_Check](https://github.com/robiyd/Inactive_Key_Rotation_Check1/tree/main)**
-- **[AWS_Cloudtrail_Validator](https://github.com/TrevinoParker7/Cloudtrail_Validator/blob/main/README.md)**
-- **[AWS_Cloud_Encryption_Evidence](https://github.com/TrevinoParker7/AWS_Cloud_Encryption_Evidence)**
-- **[AWS_Least_Privilege_Compliance_Checker](https://github.com/TrevinoParker7/AWS_Least_Privilege_Compliance_Checker)**
 
 
 ### 🟣 PURPLE TEAM 🟣
