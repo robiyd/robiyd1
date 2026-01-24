@@ -85,12 +85,6 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 
 ---
 
-### <h2>🤖 Coding Projects:</h2>
-- **[Web Development Portfolio](https://trevinoportfolio2024.netlify.app)**
----
-### <h2>📺 YouTube Videos:</h2>
-- **[My YouTube Channel](https://www.youtube.com/@AgenticAITradeSkool1)**  
----
 <h2>🧰 Tools:</h2>
 
 ### Agentic AI
