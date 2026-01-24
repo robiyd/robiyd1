@@ -183,10 +183,10 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 - CISSP: Expected Dec. 2025 <br>- CompTIA Security+: Expected Oct. 2025 <br>- CompTIA Network+: Expected Nov. 2025
 
 ## 🤳 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trevinoparker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-abate-a65572290)
 
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&quoteCategory=motivational)
+
 
 
   
