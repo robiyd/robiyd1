@@ -55,7 +55,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 ### 🔵 BLUE TEAM 🔵
 #### ⚠️ Vulnerability Management Projects
 - **[Full Vulnerability Management Program Implementation](https://github.com/robiyd/vulnerability-management-program/blob/main)**  
-- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/trevinoparker7/stig-implementations)**
+- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/robiyd/stig-implementations1)**
 - **[10+ Ensure-Audit-Remediation-Win-Server for Password, Encryption, Admin (PowerShell)](https://github.com/TrevinoParker7/Audit-Remediation-Win-Server/tree/main)**
 - **[15+ Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/TrevinoParker7/Remediation-Automation-Bash-And-Powershell/tree/main/automation)** 
 - **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
