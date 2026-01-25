@@ -48,7 +48,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/robiyd/Cloud-Soc/tree/main)** *(Live Traffic)*
-- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/TrevinoParker7/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People)**
+- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/robiyd/KQL-Maps-That-are-Essential-for-CEOs-and-Non-Tech-People-/blob/main)**
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM)** *(Live Traffic)*  
 
 ---
