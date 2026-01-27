@@ -7,7 +7,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/robel-abate-a65572290"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-![Visitors](https://komarev.com/ghpvc/?username=TrevinoParker&label=Visitors&color=brightgreen&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=RobelAbate&label=Visitors&color=brightgreen&style=for-the-badge)
 
 </div>
 
