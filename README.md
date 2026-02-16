@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Robel+Abate!;" />
 </h1>
 
-<h3 align="center">👋 Agentic AI Security Engineer & GRC Engineer & Vulnerability Management </h3>
+<h3 align="center">👋 Agentic AI Security Engineer & GRC Engineer  </h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/robel-abate-a65572290"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -45,20 +45,6 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 - **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/robiyd/AWS_Security_Hub_To_Excel_Pipeline/tree/main)**
 - **[AWS_Password_Policy_Verification](https://github.com/robiyd/Password_Policy_Verification/tree/main)**
 - **[AWS_Inactive_Key_Rotation_Check](https://github.com/robiyd/Inactive_Key_Rotation_Check1/tree/main)**
-
-
-### 🟣 PURPLE TEAM 🟣
-#### 🎯 Full SIEM
-- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/robiyd/Cloud-Soc/tree/main)** *(Live Traffic)*
-- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/robiyd/KQL-Maps-That-are-Essential-for-CEOs-and-Non-Tech-People-/blob/main)**  
-
----
-
-### 🔵 BLUE TEAM 🔵
-#### ⚠️ Vulnerability Management Projects
-- **[Full Vulnerability Management Program Implementation](https://github.com/robiyd/vulnerability-management-program/blob/main)**  
-- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/robiyd/stig-implementations1)**
-- **[10+ Ensure-Audit-Remediation-Win-Server for Password, Encryption, Admin (PowerShell)](https://github.com/robiyd/10-Ensure-Audit-Remediation-Win-Server-for-Password-Encryption-Admin-PowerShell-)**
 
 
 
